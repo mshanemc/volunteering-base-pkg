@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>regular (non-console) version of volunteering</description>
+    <formFactors>Large</formFactors>
+    <label>Volunteering</label>
+    <navType>Standard</navType>
+    <tabs>standard-Account</tabs>
+    <tabs>Volunteer_Event__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Volunteering_UtilityBar</utilityBar>
+</CustomApplication>

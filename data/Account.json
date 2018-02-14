@@ -1,0 +1,32 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "VVE"
+            },
+            "Name": "Visitacion Valley Elementary"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "SPCA"
+            },
+            "Name": "SPCA"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "PR"
+            },
+            "Name": "Parks and Recreation Department"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "UW"
+            },
+            "Name": "United Way"
+        }
+    ]
+}

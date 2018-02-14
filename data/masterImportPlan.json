@@ -1,0 +1,27 @@
+[
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Account.json"
+        ]
+    },
+    {
+        "sobject": "Volunteer_Event__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Volunteer_Event__cs.json"
+        ]
+    },
+    {
+        "sobject": "Volunteers__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Volunteers__cs.json"
+        ]
+    }
+
+]

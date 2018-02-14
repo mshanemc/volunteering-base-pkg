@@ -1,0 +1,12 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Volunteers__c",
+                "referenceId": "Volunteers__cRef1"
+            },
+            "Status__c": "Volunteered",
+            "Event__c": "@VV1"
+        }
+    ]
+}
