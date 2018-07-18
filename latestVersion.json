@@ -1,9 +1,9 @@
 {
   "Id": "08c6A000000XZGtQAO",
-  "Status": "InProgress",
+  "Status": "Success",
   "Package2Id": "0Ho6A000000CaU6SAK",
-  "Package2VersionId": null,
-  "SubscriberPackageVersionId": null,
+  "Package2VersionId": "05i6A000000XZE9QAO",
+  "SubscriberPackageVersionId": "04t6A0000038EjYQAU",
   "Tag": null,
   "Branch": null,
   "Error": [],
