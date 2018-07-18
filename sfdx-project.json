@@ -3,19 +3,21 @@
     {
       "path": "force-app",
       "default": true,
-      "id":"0Ho6A000000000QSAQ",
       "versionName": "volunteering core",
       "versionDescription": "core objects, layouts, a permset, and the basic record detail page, and a quickaction for sign up",
-      "versionNumber": "1.0.0.NEXT",
-      "orgPreferences":
-      {
+      "versionNumber": "2.13.0.NEXT",
+      "orgPreferences": {
         "enabled": [
           "S1DesktopEnabled"
         ]
-      }
+      },
+      "package": "volunteering App"
     }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "42.0"
+  "sourceApiVersion": "42.0",
+  "packageAliases": {
+    "volunteering App": "0Ho6A000000CaU6SAK"
+  }
 }
