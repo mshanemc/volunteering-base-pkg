@@ -1,23 +1,24 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true,
-      "versionName": "volunteering core",
-      "versionDescription": "core objects, layouts, a permset, and the basic record detail page, and a quickaction for sign up",
-      "versionNumber": "2.13.0.NEXT",
-      "orgPreferences": {
-        "enabled": [
-          "S1DesktopEnabled"
-        ]
-      },
-      "package": "volunteering App"
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "versionName": "volunteering core",
+            "versionDescription": "core objects, layouts, a permset, and the basic record detail page, and a quickaction for sign up",
+            "versionNumber": "2.15.0.NEXT",
+            "orgPreferences": {
+                "enabled": [
+                    "S1DesktopEnabled"
+                ]
+            },
+            "package": "volunteering App"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "43.0",
+    "packageAliases": {
+        "volunteering App": "0Ho6A000000CaU6SAK",
+        "volunteering App@2.15.0-1": "04t6A0000038EjdQAE"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "42.0",
-  "packageAliases": {
-    "volunteering App": "0Ho6A000000CaU6SAK"
-  }
 }
