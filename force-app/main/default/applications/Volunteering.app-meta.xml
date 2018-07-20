@@ -6,10 +6,14 @@
     </brand>
     <description>regular (non-console) version of volunteering</description>
     <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>Volunteering</label>
     <navType>Standard</navType>
     <tabs>standard-Account</tabs>
     <tabs>Volunteer_Event__c</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Volunteering_UtilityBar</utilityBar>
 </CustomApplication>
