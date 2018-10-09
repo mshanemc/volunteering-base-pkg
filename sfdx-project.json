@@ -5,7 +5,7 @@
             "default": true,
             "versionName": "volunteering core",
             "versionDescription": "core objects, layouts, a permset, and the basic record detail page, and a quickaction for sign up",
-            "versionNumber": "2.18.0.NEXT",
+            "versionNumber": "2.19.0.NEXT",
             "orgPreferences": {
                 "enabled": [
                     "S1DesktopEnabled"
@@ -21,6 +21,7 @@
         "volunteering App": "0Ho6A000000CaU6SAK",
         "volunteering App@2.15.0-1": "04t6A0000038EjdQAE",
         "volunteering App@2.17.0-1": "04t6A0000038EpSQAU",
-        "volunteering App@2.18.0-1": "04t6A0000038EvHQAU"
+        "volunteering App@2.18.0-1": "04t6A0000038EvHQAU",
+        "volunteering App@2.19.0-1": "04t6A000003Oi2EQAS"
     }
 }
