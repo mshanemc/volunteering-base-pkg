@@ -1,0 +1,21 @@
+{
+  "name": "volunteering-base-pkg",
+  "version": "0.0.1",
+  "description": "base package for workshops",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sfdx shane:org:delete; ./orgInit.sh",
+    "package" : "sfdx shane:package2:version:bump --minor -r -c && git add sfdx-project.json && git add latestVersion.json && git commit -m 'version bump' && git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshanemc/volunteering-base-pkg.git"
+  },
+  "author": "Shane McLaughlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshanemc/volunteering-base-pkg/issues"
+  },
+  "homepage": "https://github.com/mshanemc/volunteering-base-pkg#readme"
+}
